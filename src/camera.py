@@ -1,5 +1,4 @@
 import cv2
-from project.resources import var
 import numpy as np
 import math
 
